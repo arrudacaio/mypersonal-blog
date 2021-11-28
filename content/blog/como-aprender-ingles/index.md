@@ -1,6 +1,6 @@
 ---
 title: Por que você deveria consumir inglês mesmo sem entender
-date: "2015-06-30T22:12:03.284Z"
+date: "2021-06-30T22:12:03.284Z"
 description: "Você lembra como aprendeu português? você era um bebê que cresceu ouvindo bastante o idioma local e em algum momento, quase que do nada, você começou a falar, certo?"
 ---
 
