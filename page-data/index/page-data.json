@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"mypersonalblog"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Você lembra como aprendeu português? você era um bebê que cresceu ouvindo bastante o idioma local e em algum momento, quase que do nada,…","fields":{"slug":"/como-aprender-ingles/"},"frontmatter":{"date":"June 30, 2015","title":"Por que você deveria consumir inglês mesmo sem entender","description":"Você lembra como aprendeu português? você era um bebê que cresceu ouvindo bastante o idioma local e em algum momento, quase que do nada, você começou a falar, certo?"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
