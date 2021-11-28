@@ -11,6 +11,7 @@ module.exports = {
       twitter: `jovemdev1`,
     },
   },
+  pathPrefix: "/mypersonal-blog",
   plugins: [
     `gatsby-plugin-image`,
     {
